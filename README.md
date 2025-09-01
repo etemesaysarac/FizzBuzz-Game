@@ -19,7 +19,7 @@ Use this hero block at the top of your README to present the live site with a mo
 ```md
 <p align="center">
   <a href="https://etemesaysarac.github.io/FizzBuzz-Game/" target="_blank">
-    <img src="assets/easyso_logo.png" alt="EasySo Logo" width="140" />
+    <img src="assets/easyso_logo.png" alt="Easyso Logo" width="140" />
   </a>
 </p>
 
